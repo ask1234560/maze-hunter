@@ -1,8 +1,13 @@
 # maze-hunter
 
-Its a puzzle based online game created using django framework.
-It can be easily uploaded and hosted to heroku
-Provided support for postgresql db, default db is SQLite3.
+->  Its a puzzle based online game created using django framework.
+
+->  It can be easily uploaded and hosted to heroku.
+
+->  Mobile compatible and has a built in timer.
+
+->  Provided support for PostgreSQL db, default db is SQLite3.
+
 
 
 
@@ -15,6 +20,6 @@ Provided support for postgresql db, default db is SQLite3.
 5)	pipenv sync 					#installs all required packages
 6)	pipenv shell
 7)	python manage.py runserver 8000			#run the application in localhost:8000
-8)	http://localhost:8000/					#to view
+8)	http://localhost:8000/					#to view the website
 
 
